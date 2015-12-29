@@ -1,0 +1,2 @@
+serviceClass: com.bja.bapps.gwt.client.service.ExampleService
+path: 38707A994F9E70BADF82B99C3B4F916F.gwt.rpc

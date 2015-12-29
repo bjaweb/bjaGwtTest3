@@ -1,0 +1,2 @@
+serviceClass: com.bja.bapps.gwt.client.service.OperatorService
+path: FEA1F8EABF5256EADFDC8D0341609292.gwt.rpc
